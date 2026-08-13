@@ -1,0 +1,4 @@
+[core]
+    remote = team-storage
+['remote "team-storage"']
+    url = gdrive://1FqdUkkf1pO4Bp9x8jx1u5joVcQ1YL2Hm?dmr=1
