@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- добавлено под наш проект ---
+
+# данные и веса моделей
+data/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.npz
+
+# секреты ClearML
+clearml.conf
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
